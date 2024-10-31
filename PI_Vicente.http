@@ -1,0 +1,6 @@
+@PI_Vicente_HostAddress = http://localhost:5213
+
+GET {{PI_Vicente_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
